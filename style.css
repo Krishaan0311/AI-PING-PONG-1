@@ -1,0 +1,10 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+    font-size: 28px;
+    margin: 0px;
+  }
+  .heading h3{
+    display: inline;
+}
